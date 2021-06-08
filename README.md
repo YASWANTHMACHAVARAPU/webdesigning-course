@@ -30,3 +30,8 @@ contains online web design course using reactjs
 NAME | NUMBER
 -----|-------
 YASWANTH|8096950630
+
+``` PYTHON
+def python()
+print("hai"):
+```
